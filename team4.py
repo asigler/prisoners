@@ -8,7 +8,7 @@
 
 team_name = 'Team 4' # Only 10 chars displayed.
 strategy_name = 'Process of elimination'
-strategy_description = 'Uriel '
+strategy_description = 'Uriel will wait for them to eliminate themselves then I will eliminate the last person or collude with them.'
     
 def move(my_history, their_history, my_score, their_score):
     ''' Arguments accepted: my_history, their_history are strings.
